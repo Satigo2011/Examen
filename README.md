@@ -1,6 +1,6 @@
-# Librería de libros
+# Librería
 
-Este proyecto es una librería virtual de libros desarrollada en Java. Permite a los usuarios buscar libros por título, actualizar la disponibilidad de los libros y comprar libros para tenerlos en su posesión. El proyecto sigue el patrón de arquitectura Modelo-Vista-Controlador (MVC).
+Una librería virtual de libros desarrollada en Java. Permite a los usuarios buscar libros por título, actualizar la disponibilidad de los libros y comprar libros para tenerlos en su posesión. El proyecto sigue el patrón de arquitectura Modelo-Vista-Controlador (MVC).
 
 ## Requerimientos
 
